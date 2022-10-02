@@ -1,5 +1,5 @@
-name: "웹 사이트"
-title: "웹 사이트"
+name: "웹 사이트 개발"
+title: "웹 사이트 개발"
 description: |
   My Website
 output_dir: "docs"
@@ -13,6 +13,7 @@ navbar:
       menu:
         - text: "대통령 연설문 예측"
           href: classifier_lasso.html
+        - text: "---"  
         - text: "캡스톤 프로젝트"
           href: classifier_bert.html
 output:

@@ -68,17 +68,17 @@ d-appendix {
 
 .distill-site-header {
   --title-size:       18px;
-  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-color:       rgba(239, 222, 202, 1);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       var(--custom-blue);
+  --bkgd-color:       var(--custom-green);
 }
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       var(--custom-blue);
+  --bkgd-color:       var(--custom-green);
 }
 
 /*-- Additional custom styles --*/
@@ -86,7 +86,7 @@ d-appendix {
 
 .preface {
   font-size: 11pt;
-  background-color: var(--custom-lightblue);
+  background-color: var(--custom-lightgreen);
   margin-top: 1em;
   margin-bottom: 0.5em;
   padding: 1.5em;
@@ -96,7 +96,7 @@ d-appendix {
 
 h1 {
   font-size: 30px !important;
-  color: var(--custom-blue) !important;
+  color: var(--custom-green) !important;
   font-family: NanumSquare !important;
   margin-top: 15px !important;
   padding-top: 15px !important;
@@ -106,7 +106,7 @@ h1 {
 
 h2 {
   font-size: 25px !important;
-  color: var(--custom-blue) !important;
+  color: var(--custom-green) !important;
   font-family: NanumSquare !important;
   padding-top: 15px !important;
   margin-top: 15px !important;
@@ -117,7 +117,7 @@ h2 {
 
 h3 {
   font-size: 20px !important;
-  color: var(--custom-blue) !important;
+  color: var(--custom-green) !important;
   font-family: NanumSquare !important;
   margin-top: 10px !important;
   margin-bottom: 10px !important;
@@ -139,7 +139,7 @@ h3 {
   margin-bottom: 1.0em;
 }
 .bg-blue {
-  background-color: var(--custom-lightblue);
+  background-color: var(--custom-beige);
 }
 .bg-orange {
   background-color: var(--custom-lightorange);
@@ -156,9 +156,9 @@ h3 {
 
 .panelset {
   --panel-tab-foreground: currentColor !important;
-  --panel-tab-active-foreground: var(--custom-blue) !important;
-  --panel-tab-active-background: var(--custom-lightblue) !important;
-  --panel-tab-hover-foreground: var(--custom-blue) !important;
+  --panel-tab-active-foreground: var(--custom-green) !important;
+  --panel-tab-active-background: var(--custom-beige) !important;
+  --panel-tab-hover-foreground: var(--custom-green) !important;
   --panel-tabs-border-bottom: #ddd !important;
   --panel-tab-inactive-opacity: 0.5 !important;
 }
