@@ -4,7 +4,7 @@ description: |
   TBD
 author:
   - name: 김현진
-    url: https://Archiverse.github.io/
+    url: https://github.com/Achiverse
     affiliation: 기록정보과학전문대학원 데이터기록전공
     affiliation_url: https://record.mju.ac.kr/record/7220/subview.do
   - name: 

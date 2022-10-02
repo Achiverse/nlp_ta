@@ -4,7 +4,7 @@ description: |
   TBD
 author:
   - name: 김현진
-    url: https://Archiverse.github.io/
+    url: https://github.com/Achiverse
     affiliation: 기록정보과학전문대학원 데이터기록전공
     affiliation_url: https://record.mju.ac.kr/record/7220/subview.do
   - name: 
@@ -36,6 +36,6 @@ xaringanExtra :: use_panelset()
 
 <br>
 
-```{r network, echo=FALSE, out.width = "55%", fig.align='center'}
+```{r network, echo=FALSE, out.width = "100%", fig.align='center'}
 knitr::include_graphics("img/president.PNG")
 ```
